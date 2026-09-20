@@ -27,9 +27,9 @@
   - จำนวนชั่วโมงที่ใช้โซเชียลต่อวัน (Daily Usage Hours)
 - **ตัวชี้วัดสุขภาพจิต (Health & Psychometrics):**
   - จำนวนชั่วโมงการนอน (Sleep Duration Hours)
-  - คะแนนคุณภาพการนอน (Sleep Quality Score: 1-5)
   - การใช้โซเชียลช่วงดึก (Late Night Usage: True/False)
 - **ผลลัพธ์ (Outcome):**
   - ผลการเรียน (Academic Performance GPA)
   - คะแนนวัดค่าความเครียด (Perceived Stress Score: 0–40)
   - ดัชนีสุขภาพจิต (Mental Health Index: 0–100)
+  - คะแนนคุณภาพการนอน (Sleep Quality Score: 1-5)
