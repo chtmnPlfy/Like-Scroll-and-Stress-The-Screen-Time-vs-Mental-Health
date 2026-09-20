@@ -34,3 +34,14 @@
   - ผลการเรียน (Academic Performance GPA)
   - คะแนนวัดค่าความเครียด (Perceived Stress Score: 0–40)
   - ดัชนีสุขภาพจิต (Mental Health Index: 0–100)
+
+## Primary Methodology
+[ใส่เรื่อง correlation]
+จาก Initial Question ที่กล่าวไปข้างต้น เราจะตรวจสอบความสัมพันธ์ของแต่ละข้อมูล โดยคำนวณและพิจารณาจาก**ค่าสัมประสิทธิ์สหสัมพันธ์ (Correlation Coefficient)** 
+1) ตรวจสอบว่า Daily Usage Hours สัมพันธ์กับ Mental Health Index, Perceived Stress Score และ Academic Performance GPA หรือไม่ ?
+2) ตรวจสอบว่า Age สัมพันธ์กับ Daily Usage Hours
+3) ตรวจสอบว่า Academic Level สัมพันธ์กับ Daily Usage Hours หรือไม่ ?
+- แต่ละช่วงวัยมีพฤติกรรมอย่างไรในการเล่นอินเตอร์เน็ต
+- ระดับการศึกษามีผลต่อการชั่วโมงการเล่นโซเซียลไหม
+- การเล่นโซเซียลที่มากอาจทำให้นอนดึกและมีช่วงการนอนน้อยและอาจส่งผลต่อสุขภาพจิต
+- ผู้หญิงและผู้ชายอาจมีพฤติกรรมการใช้งานโซเชียลมีเดียที่ต่างกัน และอาจมี mental health ที่แตกต่างกัน
