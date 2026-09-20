@@ -6,7 +6,7 @@
 อย่างไรก็ตาม งานวิจัยกลางปี 2026 เริ่มชี้ว่าปัจจัยสำคัญไม่ใช่ระยะเวลาการใช้งานโดยรวม แต่เป็นพฤติกรรมการใช้งาน เช่น การเลื่อนดูเนื้อหาแบบไม่มีที่สิ้นสุด [(Mental Momentum Research, 2026)](https://research.mental-momentum.ai/r/social-media-use-mental-health-outcomes-rhjbfr) โดยกลุ่มวัยหนุ่มสาว (18-34 ปี) มีคะแนนสุขภาพจิตต่ำกว่าผู้สูงวัยอย่างชัดเจน [(Sapien Labs, 2025-2026)](https://research.mental-momentum.ai/r/social-media-use-mental-health-outcomes-rhjbfr) ขณะที่งานวิเคราะห์ล่าสุดในเดือนสิงหาคม 2026 ก็ยอมรับว่าโซเชียลมีเดียมีทั้งประโยชน์และโทษควบคู่กัน [(Worldatnet, 2026)](https://www.worldatnet.com/2026/08/httpswww.worldatnet.com202608mental-health-in-age-of-social-media-2026.html.html)
 
 จากบริบทนี้ การศึกษาความสัมพันธ์ระหว่างพฤติกรรมการใช้โซเชียลมีเดีย การนอนหลับ ความเครียด และสุขภาพจิตของนักเรียนนักศึกษา จึงมีความสำคัญในการหาปัจจัยที่แท้จริงที่ส่งผลต่อสุขภาวะ เพื่อนำไปสู่แนวทางแก้ไขที่ตรงจุด
-## initial question
+## Initial Question
 ในปัจจุบัน มีการใช้งานโซเชียลมีเดียจำนวนมากและหลายภาคส่วนเริ่มกังวลถึงผลกระทบจากการใช้งานที่มากเกินไป เช่นในกรณีของหลายประเทศ ที่เริ่มมีการแบนหรือจำกัดการใช้งานสมาร์ทโฟนในโรงเรียนดังเนื้อหาส่วนหนึ่งในข่าวที่ระบุไว้ว่า  ['social media environments can expose young people, particularly girls, to risks such as harassment, unrealistic social pressures and harmful content'](https://www.unesco.org/gem-report/en/articles/how-many-countries-have-phone-bans-school) พวกเราจึงมีการตั้งข้อสงสัยว่าจริงๆแล้วการใช้โซเชียลมีเดียเป็นปริมาณแค่ไหน ถึงจะเรียกว่ากำลังพอดี ซึ่งคำถามแรกๆที่เราสงสัยจากข้อมูลที่ได้ประกอบด้วย
 
 - ระยะเวลาในการใช้โซเซียลต่อวันมีผลอย่างไรต่อสุขภาพจิต ความเครียด และผลการเรียน
@@ -18,16 +18,19 @@
 ## Data Scope
 โปรเจกต์นี้ใช้ชุดข้อมูล [Impact of Social Media on Life](https://www.kaggle.com/datasets/harishyadav0506/impact-of-social-media-on-life) จากเว็บไซต์ Kaggle ซึ่งเก็บข้อมูลจากกลุ่มนักเรียนและนักศึกษาในปีค.ศ. 2026 จำนวน 4,500 คน ในช่วงอายุตั้งแต่ 15-26 ปี โดยข้อมูลที่ใช้ในโปรเจกต์ จะมีหัวข้อดังนี้
 
-Late_Night_Usage	Social_Comparison_Frequency	Perceived_Stress_Score	Mental_Health_Index	Academic_Performance_GPA	Overall_Impact
-
 - **ข้อมูลประชากร (Demographics):**
   - อายุ (Age)
   - เพศ (Gender)
-  - ระดับการศึกษา (Academic Level); อุดมศึกษา (High School), ปริญญาตรี (Undergraduate) และปริญญาโท (Postgraduate)
+  - ระดับการศึกษา (Academic Level; High School, Undergraduate, Postgraduate)
 - **ตัวชี้วัดการใช้งาน (Usage Metrics):**
   - ประเภทแพลตฟอร์ม (Primary Platform)
   - จำนวนชั่วโมงที่ใช้โซเชียลต่อวัน (Daily Usage Hours)
 - **ตัวชี้วัดสุขภาพจิต (Health & Psychometrics):**
   - จำนวนชั่วโมงการนอน (Sleep Duration Hours)
-  - คะแนนคุณภาพการนอน 1-5 (Sleep Quality Score)๖Subjective sleep quality score (1–5), late-night scrolling indicators, Perceived Stress Scale (PSS: 0–40), and composite Mental Health Index (10–98).
-Academic & Outcome: Cumulative GPA and multi-factor classification label (Overall_Impact: Beneficial, Neutral, Negative).
+  - คะแนนคุณภาพการนอน (Sleep Quality Score: 1-5)
+  - การใช้โซเชียลช่วงดึก (Late Night Usage: True/False)
+  - คะแนนวัดค่าความเครียด (Perceived Stress Score: 0–40)
+  - ดัชนีสุขภาพจิต (Mental Health Index: 0–100)
+- **ผลลัพธ์ (Outcome):**
+  - ผลการเรียน (Academic Performance GPA)
+  - ผลกระทบโดยรวม (Overall Impact; Beneficial, Neutral, Negative)
