@@ -6,6 +6,7 @@
 อย่างไรก็ตาม งานวิจัยกลางปี 2026 เริ่มชี้ว่าปัจจัยสำคัญไม่ใช่ระยะเวลาการใช้งานโดยรวม แต่เป็นพฤติกรรมการใช้งาน เช่น การเลื่อนดูเนื้อหาแบบไม่มีที่สิ้นสุด [(Mental Momentum Research, 2026)](https://research.mental-momentum.ai/r/social-media-use-mental-health-outcomes-rhjbfr) โดยกลุ่มวัยหนุ่มสาว (18-34 ปี) มีคะแนนสุขภาพจิตต่ำกว่าผู้สูงวัยอย่างชัดเจน [(Sapien Labs, 2025-2026)](https://research.mental-momentum.ai/r/social-media-use-mental-health-outcomes-rhjbfr) ขณะที่งานวิเคราะห์ล่าสุดในเดือนสิงหาคม 2026 ก็ยอมรับว่าโซเชียลมีเดียมีทั้งประโยชน์และโทษควบคู่กัน [(Worldatnet, 2026)](https://www.worldatnet.com/2026/08/httpswww.worldatnet.com202608mental-health-in-age-of-social-media-2026.html.html)
 
 จากบริบทนี้ การศึกษาความสัมพันธ์ระหว่างพฤติกรรมการใช้โซเชียลมีเดีย การนอนหลับ ความเครียด และสุขภาพจิตของนักเรียนนักศึกษา จึงมีความสำคัญในการหาปัจจัยที่แท้จริงที่ส่งผลต่อสุขภาวะ เพื่อนำไปสู่แนวทางแก้ไขที่ตรงจุด
+
 ## Initial Question
 ในปัจจุบัน มีการใช้งานโซเชียลมีเดียจำนวนมากและหลายภาคส่วนเริ่มกังวลถึงผลกระทบจากการใช้งานที่มากเกินไป เช่นในกรณีของหลายประเทศ ที่เริ่มมีการแบนหรือจำกัดการใช้งานสมาร์ทโฟนในโรงเรียนดังเนื้อหาส่วนหนึ่งในข่าวที่ระบุไว้ว่า  ['social media environments can expose young people, particularly girls, to risks such as harassment, unrealistic social pressures and harmful content'](https://www.unesco.org/gem-report/en/articles/how-many-countries-have-phone-bans-school) พวกเราจึงมีการตั้งข้อสงสัยว่าจริงๆแล้วการใช้โซเชียลมีเดียเป็นปริมาณแค่ไหน ถึงจะเรียกว่ากำลังพอดี ซึ่งคำถามแรกๆที่เราสงสัยจากข้อมูลที่ได้ประกอบด้วย
 
