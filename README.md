@@ -16,4 +16,18 @@
 - ผู้หญิงและผู้ชายอาจมีพฤติกรรมการใช้งานโซเชียลมีเดียที่ต่างกัน และอาจมี mental health ที่แตกต่างกัน
 
 ## Data Scope
-โปรเจกต์นี้ใช้ชุดข้อมูล [Impact of Social Media on Life](https://www.kaggle.com/datasets/harishyadav0506/impact-of-social-media-on-life) จากเว็บไซต์ Kaggle ซึ่งเก็บข้อมูลจากกลุ่มนักเรียนและนักศึกษาในปีค.ศ. 2026 จำนวน 4,500 คน ในช่วงอายุตั้งแต่ 15-26 ปี
+โปรเจกต์นี้ใช้ชุดข้อมูล [Impact of Social Media on Life](https://www.kaggle.com/datasets/harishyadav0506/impact-of-social-media-on-life) จากเว็บไซต์ Kaggle ซึ่งเก็บข้อมูลจากกลุ่มนักเรียนและนักศึกษาในปีค.ศ. 2026 จำนวน 4,500 คน ในช่วงอายุตั้งแต่ 15-26 ปี โดยข้อมูลที่ใช้ในโปรเจกต์ จะมีหัวข้อดังนี้
+
+Late_Night_Usage	Social_Comparison_Frequency	Perceived_Stress_Score	Mental_Health_Index	Academic_Performance_GPA	Overall_Impact
+
+- **ข้อมูลประชากร (Demographics):**
+  - อายุ (Age)
+  - เพศ (Gender)
+  - ระดับการศึกษา (Academic Level); อุดมศึกษา (High School), ปริญญาตรี (Undergraduate) และปริญญาโท (Postgraduate)
+- **ตัวชี้วัดการใช้งาน (Usage Metrics):**
+  - ประเภทแพลตฟอร์ม (Primary Platform)
+  - จำนวนชั่วโมงที่ใช้โซเชียลต่อวัน (Daily Usage Hours)
+- **ตัวชี้วัดสุขภาพจิต (Health & Psychometrics):**
+  - จำนวนชั่วโมงการนอน (Sleep Duration Hours)
+  - คะแนนคุณภาพการนอน 1-5 (Sleep Quality Score)๖Subjective sleep quality score (1–5), late-night scrolling indicators, Perceived Stress Scale (PSS: 0–40), and composite Mental Health Index (10–98).
+Academic & Outcome: Cumulative GPA and multi-factor classification label (Overall_Impact: Beneficial, Neutral, Negative).
