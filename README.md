@@ -29,8 +29,7 @@
   - จำนวนชั่วโมงการนอน (Sleep Duration Hours)
   - คะแนนคุณภาพการนอน (Sleep Quality Score: 1-5)
   - การใช้โซเชียลช่วงดึก (Late Night Usage: True/False)
-  - คะแนนวัดค่าความเครียด (Perceived Stress Score: 0–40)
-  - ดัชนีสุขภาพจิต (Mental Health Index: 0–100)
 - **ผลลัพธ์ (Outcome):**
   - ผลการเรียน (Academic Performance GPA)
-  - ผลกระทบโดยรวม (Overall Impact; Beneficial, Neutral, Negative)
+  - คะแนนวัดค่าความเครียด (Perceived Stress Score: 0–40)
+  - ดัชนีสุขภาพจิต (Mental Health Index: 0–100)
