@@ -37,10 +37,13 @@
 
 ## Primary Methodology
 [ใส่เรื่อง correlation]
-จาก Initial Question ที่กล่าวไปข้างต้น เราจะตรวจสอบความสัมพันธ์ของแต่ละข้อมูล โดยคำนวณและพิจารณาจาก**ค่าสัมประสิทธิ์สหสัมพันธ์ (Correlation Coefficient)** 
-1) ตรวจสอบว่า Daily Usage Hours สัมพันธ์กับ Mental Health Index, Perceived Stress Score และ Academic Performance GPA หรือไม่ ?
-2) ตรวจสอบว่า Age สัมพันธ์กับ Daily Usage Hours
-3) ตรวจสอบว่า Academic Level สัมพันธ์กับ Daily Usage Hours หรือไม่ ?
+จาก Initial Question ที่กล่าวไปข้างต้น เราจะตรวจสอบความสัมพันธ์ของแต่ละข้อมูล โดยคำนวณและพิจารณาจาก**ค่าสัมประสิทธิ์สหสัมพันธ์ (Correlation Coefficient)** ดังนี้
+1) Daily Usage Hours กับ Mental Health Index, Perceived Stress Score และ Academic Performance GPA
+2) Age กับ Daily Usage Hours
+3) Academic Level กับ Daily Usage Hours
+4) Daily Usage Hours กับ Sleep Duration Hours และ Mental Health Index
+5) Gender กับ Mental Health Index
+- ระยะเวลาในการใช้โซเซียลต่อวันมีผลอย่างไรต่อสุขภาพจิต ความเครียด และผลการเรียน
 - แต่ละช่วงวัยมีพฤติกรรมอย่างไรในการเล่นอินเตอร์เน็ต
 - ระดับการศึกษามีผลต่อการชั่วโมงการเล่นโซเซียลไหม
 - การเล่นโซเซียลที่มากอาจทำให้นอนดึกและมีช่วงการนอนน้อยและอาจส่งผลต่อสุขภาพจิต
