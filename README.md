@@ -36,7 +36,7 @@
   - ดัชนีสุขภาพจิต (Mental Health Index: 0–100)
 
 ## Primary Methodology
-[ใส่เรื่อง correlation]
+[ใส่รูป correlation + ระบุว่าใช้ Pearson R (+เหตุผล)]
 จาก Initial Question ที่กล่าวไปข้างต้น เราจะตรวจสอบความสัมพันธ์ของแต่ละข้อมูล โดยคำนวณและพิจารณาจาก**ค่าสัมประสิทธิ์สหสัมพันธ์ (Correlation Coefficient)** ดังนี้
 Daily Usage Hours กับ Mental Health Index, Perceived Stress Score, Academic Performance GPA, Age Range, Academic Level, Sleep Duration Hours
 
