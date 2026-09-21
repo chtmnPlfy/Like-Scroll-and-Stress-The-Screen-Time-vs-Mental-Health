@@ -58,3 +58,6 @@ Daily Usage Hours กับ Mental Health Index, Perceived Stress Score, Academi
 <h3 align="left">
 2. เมื่อชั่วโมงบนโซเซียลสะท้อนสุขภาวะทางจิต 
 </h3>
+<div align="center">
+<img src="DailyUsageVSMental.png"><img src="DailyUsageVSMental.png">
+<p><i>Figure _.ความสัมพันธ์ระหว่างชั่วโมงการใช้งานต่อวันกับดัชนีสุขภาพจิต</i></p>
