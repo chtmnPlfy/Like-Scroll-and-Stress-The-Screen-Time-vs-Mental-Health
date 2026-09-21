@@ -1,14 +1,18 @@
 # Like, Scroll, and Stress: The Screen Time vs Mental Health
 
 ## Introduction
-ผลกระทบของโซเชียลมีเดียต่อสุขภาพจิตเป็นประเด็นที่ได้รับความสนใจเพิ่มขึ้นต่อเนื่องตั้งแต่ปี 2023 เมื่อสำนักงานศัลยแพทย์ใหญ่แห่งสหรัฐฯ ประกาศให้เป็นปัญหาสาธารณสุขเร่งด่วน [(Office of the Surgeon General, 2023)](https://www.singlecare.com/blog/social-media-and-mental-health-statistics/) ผลสำรวจในปี 2025 พบว่าผู้ใช้กว่า 37% รู้สึกว่าโซเชียลมีเดียส่งผลเชิงลบต่อสุขภาพจิตของตน [(Statista, 2025)](https://statista.com/statistics/1369032/mental-health-social-media-effect-us-users) และงานวิจัยในต้นปี 2026 ยังคงยืนยันความสัมพันธ์ระหว่างการใช้งานมากเกินไปกับผลลัพธ์ด้านสุขภาพจิตที่แย่ลง [(PubMed, 2026)](https://pubmed.ncbi.nlm.nih.gov/41731670/)
+ผลกระทบของโซเชียลมีเดียต่อสุขภาพจิตเป็นประเด็นที่ได้รับความสนใจเพิ่มขึ้นต่อเนื่องตั้งแต่ปี 2023 เมื่อสำนักงานศัลยแพทย์ทั่วไปแห่งสหรัฐฯ(Office of the Surgeon General) ประกาศให้เป็นปัญหาสาธารณสุขเร่งด่วน [(Office of the Surgeon General, 2023)](https://www.singlecare.com/blog/social-media-and-mental-health-statistics/) ผลสำรวจในปี 2025 พบว่าผู้ใช้กว่า 37% รู้สึกว่าโซเชียลมีเดียส่งผลเชิงลบต่อสุขภาพจิตของตน [(Statista, 2025)](https://statista.com/statistics/1369032/mental-health-social-media-effect-us-users) และงานวิจัยในต้นปี 2026 ยังคงยืนยันความสัมพันธ์ระหว่างการใช้งานมากเกินไปกับผลลัพธ์ด้านสุขภาพจิตที่แย่ลง [(PubMed, 2026)](https://pubmed.ncbi.nlm.nih.gov/41731670/)
 
-อย่างไรก็ตาม งานวิจัยกลางปี 2026 เริ่มชี้ว่าปัจจัยสำคัญไม่ใช่ระยะเวลาการใช้งานโดยรวม แต่เป็นพฤติกรรมการใช้งาน เช่น การเลื่อนดูเนื้อหาแบบไม่มีที่สิ้นสุด [(Mental Momentum Research, 2026)](https://research.mental-momentum.ai/r/social-media-use-mental-health-outcomes-rhjbfr) โดยกลุ่มวัยหนุ่มสาว (18-34 ปี) มีคะแนนสุขภาพจิตต่ำกว่าผู้สูงวัยอย่างชัดเจน [(Sapien Labs, 2025-2026)](https://research.mental-momentum.ai/r/social-media-use-mental-health-outcomes-rhjbfr) ขณะที่งานวิเคราะห์ล่าสุดในเดือนสิงหาคม 2026 ก็ยอมรับว่าโซเชียลมีเดียมีทั้งประโยชน์และโทษควบคู่กัน [(Worldatnet, 2026)](https://www.worldatnet.com/2026/08/httpswww.worldatnet.com202608mental-health-in-age-of-social-media-2026.html.html)
+อย่างไรก็ตาม งานวิจัยกลางปี 2026 เริ่มชี้ว่าปัจจัยสำคัญไม่ใช่ระยะเวลาการใช้งานโดยรวม แต่เป็นพฤติกรรมการใช้งาน เช่น การเลื่อนดูเนื้อหาแบบไม่มีที่สิ้นสุด [(Mental Momentum Research, 2026)](https://research.mental-momentum.ai/r/social-media-use-mental-health-outcomes-rhjbfr) โดยกลุ่มวัยหนุ่มสาว (18-34 ปี) มีคะแนนสุขภาพจิตต่ำกว่าผู้สูงวัยอย่างชัดเจน [(Sapien Labs, 2025-2026)](https://research.mental-momentum.ai/r/social-media-use-mental-health-outcomes-rhjbfr) ขณะที่งานวิเคราะห์ล่าสุดในเดือนสิงหาคม 2026 ก็ยอมรับว่าโซเชียลมีเดียมีทั้งประโยชน์และโทษควบคู่กัน [(Worldatnet, 2026)](https://www.worldatnet.com/2026/08/httpswww.worldatnet.com202608mental-health-in-age-of-social-media-2026.html.html) การค้นพบดังกล่าวนี้ยังถูกยอมรับอย่างแพร่หลายและนำไปสู่การที่หลายประเทศเริ่มมีมาตรการการแบนหรือจำกัดการใช้งานสมาร์ทโฟนในโรงเรียน[(UNESCO GEM Report, 2026)]((https://www.unesco.org/gem-report/en/articles/how-many-countries-have-phone-bans-school))
 
-จากบริบทนี้ การศึกษาความสัมพันธ์ระหว่างพฤติกรรมการใช้โซเชียลมีเดีย การนอนหลับ ความเครียด และสุขภาพจิตของนักเรียนนักศึกษา จึงมีความสำคัญในการหาปัจจัยที่แท้จริงที่ส่งผลต่อสุขภาวะ เพื่อนำไปสู่แนวทางแก้ไขที่ตรงจุด
+<span style="color:red;">
+<h2>รู้สึกว่ายังไม่เข้า</h2>
+จากเหตุดังกล่าวนี้ จึงเป็นข้อสงสัยเกิดขึ้นว่าความสัมพันธ์ระหว่างพฤติกรรมการใช้โซเชียลมีเดีย การนอนหลับ ความเครียด และสุขภาพจิตของนักเรียนนักศึกษา มีความสำคัญในการหาปัจจัยที่แท้จริงที่ส่งผลต่อสุขภาวะ เพื่อนำไปสู่แนวทางแก้ไขที่ตรงจุด
+3
+</span>
 
 ## Initial Question
-ในปัจจุบัน มีการใช้งานโซเชียลมีเดียจำนวนมากและหลายภาคส่วนเริ่มกังวลถึงผลกระทบจากการใช้งานที่มากเกินไป เช่นในกรณีของหลายประเทศ ที่เริ่มมีการแบนหรือจำกัดการใช้งานสมาร์ทโฟนในโรงเรียนดังเนื้อหาส่วนหนึ่งในข่าวที่ระบุไว้ว่า  ['social media environments can expose young people, particularly girls, to risks such as harassment, unrealistic social pressures and harmful content'](https://www.unesco.org/gem-report/en/articles/how-many-countries-have-phone-bans-school) พวกเราจึงมีการตั้งข้อสงสัยว่าจริงๆแล้วการใช้โซเชียลมีเดียเป็นปริมาณแค่ไหน ถึงจะเรียกว่ากำลังพอดี ซึ่งคำถามแรกๆที่เราสงสัยจากข้อมูลที่ได้ประกอบด้วย
+จากข่าพวกเราจึงมีการตั้งข้อสงสัยว่าจริงๆแล้วการใช้โซเชียลมีเดียเป็นปริมาณแค่ไหน ถึงจะเรียกว่ากำลังพอดี ซึ่งคำถามแรกๆที่เราสงสัยจากข้อมูลที่ได้ประกอบด้วย
 
 - ระยะเวลาในการใช้โซเซียลต่อวันมีผลอย่างไรต่อสุขภาพจิต ความเครียด และผลการเรียน
 - แต่ละช่วงวัยมีพฤติกรรมอย่างไรในการเล่นอินเตอร์เน็ต
